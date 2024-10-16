@@ -1,4 +1,4 @@
-public abstract class Book {
+public  class Book {
     String bookCode;
     String name;
     int price;
